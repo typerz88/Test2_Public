@@ -1,0 +1,2 @@
+# Ignore a directory named 'below' and all its contents
+.ipynb_checkpoints/
